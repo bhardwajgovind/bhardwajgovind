@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Govind</h1>
-<h3 align="center">Embedded Software Developer with Experience in Sustainable Mobility for Road & Air </h3>
+<h3 align="center">Embedded Software Developer with Experience in Sustainable Mobility </h3>
 
 - 🔭 I’m currently working on **"Propulsion System Software Development for eVTOL Aircraft"** in Munich,Germany.
 
