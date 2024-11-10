@@ -14,8 +14,12 @@
 - ⚡ Fun fact: ...
 
  **Connect with me:**
+ 
 
-![www.linkedin.com/bgovind](https://github.com/user-attachments/assets/90b537c0-b7eb-4b2d-b493-c158309e1938)
+![www.linkedin.com/bgovind](https://github.com/user-attachments/assets/90b537c0-b7eb-4b2d-b493-c158309e1938) [[params.social]]
+    icon = "[linkedin](https://github.com/user-attachments/assets/90b537c0-b7eb-4b2d-b493-c158309e1938)"
+    icon_pack = "fa"
+    link = "www.linkedin.com/in/bgovind"
 
   
 
